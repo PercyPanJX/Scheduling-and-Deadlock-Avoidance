@@ -1,0 +1,131 @@
+
+-------- Get A System info --------
+
+-------- Get A Job --------
+
+-------- Get A Job --------
+
+-------- Get A Job --------
+
+-------- Get A request --------
+
+-------- Get A request --------
+
+-------- Get A request --------
+
+-------- Get A request --------
+
+-------- Get A request --------
+System is not in safe state
+
+-------- Get A release --------
+
+-------- Get A Print Request --------
+
+===============================================
+
+----- Current Time: 12 -----
+******** System Infomation *********
+Start Time: 1
+Main Memory: 200
+Device Number: 11
+Quantum: 4
+Available Devices: 4
+Available Memory: 0
+
+******** Hold Queue 1 ********
+******** Hold Queue 2 ********
+******** Ready Queue ********
+Job3
+Arribal Time: 5
+Total run time: 20
+Priority: 1
+Devices allocated: 3
+Devices requested: 3
+Start time: 7
+Finish time -1
+Turnaround time: -1
+Remaining time: 18
+Weighted turnaround time: -1
+
+Job2
+Arribal Time: 4
+Total run time: 20
+Priority: 2
+Devices allocated: 2
+Devices requested: 2
+Start time: 6
+Finish time -1
+Turnaround time: -1
+Remaining time: 18
+Weighted turnaround time: -1
+
+******** Wait Queue ********
+******** Completed Queue ********
+******** CPU Running ********
+Job1
+Arribal Time: 3
+Total run time: 20
+Priority: 1
+Devices allocated: 2
+Devices requested: 2
+Start time: 3
+Finish time -1
+Turnaround time: -1
+Remaining time: 15
+Weighted turnaround time: -1
+
+
+===============================================
+
+----- Current Time: 9999 -----
+******** System Infomation *********
+Start Time: 1
+Main Memory: 200
+Device Number: 11
+Quantum: 4
+Available Devices: 11
+Available Memory: 0
+
+******** Hold Queue 1 ********
+******** Hold Queue 2 ********
+******** Ready Queue ********
+******** Wait Queue ********
+******** Completed Queue ********
+Job1
+Arribal Time: 3
+Total run time: 20
+Priority: 1
+Devices allocated: 0
+Devices requested: 2
+Start time: 3
+Finish time 51
+Turnaround time: 48
+Remaining time: 0
+Weighted turnaround time: 2.4
+
+Job3
+Arribal Time: 5
+Total run time: 20
+Priority: 1
+Devices allocated: 0
+Devices requested: 3
+Start time: 7
+Finish time 61
+Turnaround time: 56
+Remaining time: 0
+Weighted turnaround time: 2.8
+
+Job2
+Arribal Time: 4
+Total run time: 20
+Priority: 2
+Devices allocated: 0
+Devices requested: 2
+Start time: 6
+Finish time 63
+Turnaround time: 59
+Remaining time: 0
+Weighted turnaround time: 2.95
+
+******** CPU Running ********
